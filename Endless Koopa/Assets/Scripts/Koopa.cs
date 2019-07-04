@@ -45,13 +45,16 @@ public class Koopa : PhysicsObject
             spriteRenderer.flipX = !spriteRenderer.flipX;
         }
 
-        if (direction != 0)
+        if (grounded)
         {
-            animator.SetTrigger("koopaWalk");
-        }
-        else
-        {
-            animator.SetTrigger("koopaIdle");
+            if (direction != 0)
+            {
+                animator.SetTrigger("koopaWalk");
+            }
+            else
+            {
+                animator.SetTrigger("koopaIdle");
+            }
         }
     }
 
