@@ -17,12 +17,16 @@ public class Game : MonoBehaviour
     public float scrollSpeed = 7f;
 
     public AudioClip coinSound;
+
     public AudioClip fireSound;
+
     public AudioClip gameOverSound;
 
-    private int score = 0;
+    public GameObject[] grounds;
 
     public bool intro = true;
+
+    private int score = 0;
 
     private float introDelay = 1f;
 

@@ -1,5 +1,71 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &438769376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 438769377}
+  - component: {fileID: 438769378}
+  - component: {fileID: 438769379}
+  m_Layer: 0
+  m_Name: Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &438769377
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 438769376}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.4489546, y: -0.06410875, z: -0.31507286}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4588774767068508171}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &438769378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 438769376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3659595a84e332b40a4b7224bba33bb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3338264488409304188, guid: 68e376b6c067ea54cbda0fabb3a28073, type: 3}
+  poolSize: 5
+  spawnRate: 3
+  columnMin: -2
+  columnMax: 2
+--- !u!114 &438769379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 438769376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3659595a84e332b40a4b7224bba33bb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8015954607892826145, guid: 75d78d753a680bb4195f633d354226e3, type: 3}
+  poolSize: 5
+  spawnRate: 3
+  columnMin: -2
+  columnMax: 2
 --- !u!1 &1457642422
 GameObject:
   m_ObjectHideFlags: 0
@@ -259,6 +325,7 @@ Transform:
   m_Children:
   - {fileID: 4588774767141976413}
   - {fileID: 4588774768322715894}
+  - {fileID: 438769377}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -282,6 +349,7 @@ MonoBehaviour:
   coinSound: {fileID: 8300000, guid: 0ff90a617297a5e4baaefc152613a029, type: 3}
   fireSound: {fileID: 8300000, guid: d4b6251491b4c3a4d92d2820ea458afa, type: 3}
   gameOverSound: {fileID: 8300000, guid: 62f0d59aeb53d504bbc69e2c012b3ce2, type: 3}
+  grounds: []
   intro: 1
 --- !u!1 &4588774767141976415
 GameObject:
