@@ -57,7 +57,7 @@ public class Koopa : PhysicsObject
 
     private void Die()
     {
-        animator.SetTrigger("koopaIdle");
+        animator.SetTrigger("koopaDie");
     }
 
     protected override void ComputeVelocity()
