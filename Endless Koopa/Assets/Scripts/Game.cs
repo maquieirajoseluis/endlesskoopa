@@ -32,6 +32,8 @@ public class Game : MonoBehaviour
 
     private float introDelay = 1f;
 
+    public float absoluteX = 0;
+
     void Awake()
     {
         if (instance == null)

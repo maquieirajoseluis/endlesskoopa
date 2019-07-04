@@ -20,7 +20,8 @@ public class ScrollingObject : MonoBehaviour
             if (Input.GetAxis("Horizontal") >= 0)
             {
                 Move(0);
-            } else
+            }
+            else
             {
                 Move(Input.GetAxis("Horizontal"));
             }
@@ -36,6 +37,11 @@ public class ScrollingObject : MonoBehaviour
         Vector2 move = Vector2.zero;
 
         move.x = direction * Game.instance.scrollSpeed;
+
+        if (move.x != 0)
+        {
+            Game.instance.absoluteX += Mathf.Abs(move.x);
+        }
 
         rb2d.velocity = move;
     }

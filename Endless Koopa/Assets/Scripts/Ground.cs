@@ -22,7 +22,6 @@ public class Ground : MonoBehaviour
 
     private void Move()
     {
-        //Vector2 grassOffset = new Vector2(grassHorizontalLength * Game.instance.grounds.Length, 0);
         Vector2 grassOffset = new Vector2(grassHorizontalLength * 2f, 0);
         transform.position = (Vector2)transform.position + grassOffset;
     }

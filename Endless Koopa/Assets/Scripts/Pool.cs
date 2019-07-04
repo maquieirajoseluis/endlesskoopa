@@ -2,42 +2,48 @@
 
 public class Pool : MonoBehaviour
 {
-    public GameObject prefab;
-    public int poolSize = 5;
-    public float spawnRate = 3f;
-    public float min = -2f;
-    public float max = 2f;
+    public GameObject[] prefabs;
+    public int poolSize = 15;
+    public float spawnRate = 1500f;
 
     private GameObject[] pool;
     private int currentPool = 0;
 
     private Vector2 objectPoolPosition = new Vector2(-15, -25);
-    private float spawnXPosition = 10f;
-
-    private float timeSinceLastSpawned;
 
     void Start()
     {
-        timeSinceLastSpawned = 0f;
-
         pool = new GameObject[poolSize];
         for (int i = 0; i < poolSize; i++)
         {
+            var prefab = prefabs[Random.Range(0, prefabs.Length)];
             pool[i] = (GameObject)Instantiate(prefab, objectPoolPosition, Quaternion.identity);
         }
     }
 
     void Update()
     {
-        timeSinceLastSpawned += Time.deltaTime;
-
-        if (Game.instance.gameOver == false && timeSinceLastSpawned >= spawnRate)
+        if (Game.instance.gameOver == false && Game.instance.absoluteX >= spawnRate)
         {
-            timeSinceLastSpawned = 0f;
+            var poolObject = pool[currentPool].GetComponent<PoolObject>();
 
-            float spawnYPosition = Random.Range(min, max);
+            float spawnYPosition = Random.Range(poolObject.minYPosition, poolObject.maxYPosition);
 
-            pool[currentPool].transform.position = new Vector2(spawnXPosition, spawnYPosition);
+            int lastPool = currentPool - 1;
+
+            if (currentPool == 0)
+            {
+                lastPool = 15;
+            }
+
+            float spawnXPosition = Random.Range(poolObject.minXPosition, poolObject.maxXPosition);
+
+            //float lastSpawnXPosition = pool[lastPool].transform.position.x;
+            float lastSpawnXPosition = 0f;
+
+            pool[currentPool].transform.position = new Vector2(lastSpawnXPosition + spawnXPosition, spawnYPosition);
+
+            Game.instance.absoluteX = 0;
 
             currentPool++;
 
