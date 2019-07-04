@@ -8,7 +8,7 @@ public class Game : MonoBehaviour
 
     public GameObject gameOverText;
 
-    private GameObject introImage;
+    public GameObject introImage;
 
     public Text scoreText;
 
@@ -68,12 +68,9 @@ public class Game : MonoBehaviour
     {
         doingIntro = true;
 
-        introImage = GameObject.Find("Intro");
-
         introImage.SetActive(true);
 
         Invoke("LoadStaticIntro", introDelay);
-
     }
 
     void LoadStaticIntro()

@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 1819140134}
   - component: {fileID: 1819140133}
   m_Layer: 5
-  m_Name: Start
+  m_Name: Intro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -275,6 +275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 4588774767964796868}
+  introImage: {fileID: 1819140131}
   scoreText: {fileID: 4588774768405618011}
   gameOver: 0
   scrollSpeed: -7
