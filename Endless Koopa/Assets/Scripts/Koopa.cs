@@ -59,4 +59,19 @@ public class Koopa : PhysicsObject
 
         Jump();
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Coin")
+        {
+            Game.instance.Scored();
+
+            collision.gameObject.SetActive(false);
+        }
+
+        if (collision.tag == "Mario")
+        {
+            Game.instance.GameOver();
+        }
+    }
 }
