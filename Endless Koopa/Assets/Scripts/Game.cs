@@ -8,6 +8,8 @@ public class Game : MonoBehaviour
 
     public GameObject gameOverText;
 
+    private GameObject introImage;
+
     public Text scoreText;
 
     public bool gameOver = false;
@@ -17,6 +19,10 @@ public class Game : MonoBehaviour
     public AudioClip coinSound;
 
     private int score = 0;
+
+    private bool doingIntro = true;
+
+    private float introDelay = 2f;
 
     void Awake()
     {
@@ -28,6 +34,8 @@ public class Game : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        InitGame();
     }
 
     void Update()
@@ -54,5 +62,24 @@ public class Game : MonoBehaviour
     {
         gameOverText.SetActive(true);
         gameOver = true;
+    }
+
+    void InitGame()
+    {
+        doingIntro = true;
+
+        introImage = GameObject.Find("Intro");
+
+        introImage.SetActive(true);
+
+        Invoke("LoadStaticIntro", introDelay);
+
+    }
+
+    void LoadStaticIntro()
+    {
+        introImage.SetActive(false);
+
+        doingIntro = false;
     }
 }
