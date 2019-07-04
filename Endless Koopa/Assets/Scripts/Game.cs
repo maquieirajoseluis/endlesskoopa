@@ -13,6 +13,7 @@ public class Game : MonoBehaviour
     public Text scoreText;
 
     public bool gameOver = false;
+    public bool objectCollision = false;
 
     public float scrollSpeed = 7f;
 
@@ -69,6 +70,13 @@ public class Game : MonoBehaviour
         Audio.instance.PlaySingle(gameOverSound);
         gameOverText.SetActive(true);
         gameOver = true;
+    }
+
+
+    public void ObjectCollision()
+    {
+        gameOver = false;
+        objectCollision = true;
     }
 
     void InitGame()
