@@ -22,12 +22,14 @@ public class Koopa : PhysicsObject
         if (Input.GetButtonDown("Jump") && grounded)
         {
             velocity.y = jumpSpeed;
+            animator.SetTrigger("koopaJump");
         }
         else if (Input.GetButtonUp("Jump"))
         {
             if (velocity.y > 0)
             {
                 velocity.y *= 0.5f;
+                animator.SetTrigger("koopaJump");
             }
         }
 
@@ -45,17 +47,17 @@ public class Koopa : PhysicsObject
 
         if (direction != 0)
         {
-            animator.SetTrigger("marioWalk");
+            animator.SetTrigger("koopaWalk");
         }
         else
         {
-            animator.SetTrigger("marioIdle");
+            animator.SetTrigger("koopaIdle");
         }
     }
 
     private void Die()
     {
-        animator.SetTrigger("marioIdle");
+        animator.SetTrigger("koopaIdle");
     }
 
     protected override void ComputeVelocity()
