@@ -44,24 +44,17 @@ public class PhysicsObject : MonoBehaviour
     void FixedUpdate()
     {
         velocity += gravityModifier * Physics2D.gravity * Time.deltaTime;
-        velocity.x = targetVelocity.x;
 
         grounded = false;
 
         Vector2 deltaPosition = velocity * Time.deltaTime;
 
-        Vector2 moveAlongGround = new Vector2(groundNormal.y, -groundNormal.x);
+        Vector2 move = Vector2.up * deltaPosition.y;
 
-        Vector2 move = moveAlongGround * deltaPosition.x;
-
-        Movement(move, false);
-
-        move = Vector2.up * deltaPosition.y;
-
-        Movement(move, true);
+        Movement(move);
     }
 
-    void Movement(Vector2 move, bool yMovement)
+    void Movement(Vector2 move)
     {
         float distance = move.magnitude;
 
@@ -80,11 +73,8 @@ public class PhysicsObject : MonoBehaviour
                 if (currentNormal.y > minGroundNormalY)
                 {
                     grounded = true;
-                    if (yMovement)
-                    {
-                        groundNormal = currentNormal;
-                        currentNormal.x = 0;
-                    }
+                    groundNormal = currentNormal;
+                    currentNormal.x = 0;
                 }
 
                 float projection = Vector2.Dot(velocity, currentNormal);

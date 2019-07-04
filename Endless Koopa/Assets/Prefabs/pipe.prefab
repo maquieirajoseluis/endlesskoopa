@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 661729051474831993}
   m_Layer: 0
   m_Name: pipe
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

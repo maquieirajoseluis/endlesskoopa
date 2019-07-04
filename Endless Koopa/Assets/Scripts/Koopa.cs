@@ -88,11 +88,12 @@ public class Koopa : PhysicsObject
             Game.instance.GameOver();
         }
 
-        if(collision.tag == "Object")
+        if (collision.tag == "Object")
         {
             Game.instance.Collision(true);
         }
     }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Object")
