@@ -5,8 +5,8 @@ public class Pool : MonoBehaviour
     public GameObject prefab;
     public int poolSize = 5;
     public float spawnRate = 3f;
-    public float columnMin = -2f;
-    public float columnMax = 2f;
+    public float min = -2f;
+    public float max = 2f;
 
     private GameObject[] pool;
     private int currentPool = 0;
@@ -35,7 +35,7 @@ public class Pool : MonoBehaviour
         {
             timeSinceLastSpawned = 0f;
 
-            float spawnYPosition = Random.Range(columnMin, columnMax);
+            float spawnYPosition = Random.Range(min, max);
 
             pool[currentPool].transform.position = new Vector2(spawnXPosition, spawnYPosition);
 

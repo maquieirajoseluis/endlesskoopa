@@ -90,8 +90,14 @@ public class Koopa : PhysicsObject
 
         if(collision.tag == "Object")
         {
-            Game.instance.ObjectCollision();
-
+            Game.instance.Collision(true);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "Object")
+        {
+            Game.instance.Collision(false);
         }
     }
 }

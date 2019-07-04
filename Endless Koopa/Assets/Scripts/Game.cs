@@ -13,6 +13,7 @@ public class Game : MonoBehaviour
     public Text scoreText;
 
     public bool gameOver = false;
+
     public bool objectCollision = false;
 
     public float scrollSpeed = 7f;
@@ -73,10 +74,9 @@ public class Game : MonoBehaviour
     }
 
 
-    public void ObjectCollision()
+    public void Collision(bool collision)
     {
-        gameOver = false;
-        objectCollision = true;
+        objectCollision = collision;
     }
 
     void InitGame()

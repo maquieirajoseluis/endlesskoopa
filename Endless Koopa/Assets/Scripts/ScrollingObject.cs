@@ -11,9 +11,19 @@ public class ScrollingObject : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (Game.instance.gameOver || Game.instance.objectCollision)
+        if (Game.instance.gameOver)
         {
             Move(0);
+        }
+        else if (Game.instance.objectCollision)
+        {
+            if (Input.GetAxis("Horizontal") >= 0)
+            {
+                Move(0);
+            } else
+            {
+                Move(Input.GetAxis("Horizontal"));
+            }
         }
         else
         {
