@@ -145,7 +145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minGroundNormalY: 0.65
   gravityModifier: 1
-  jumpSpeed: 7
+  jumpSpeed: 10
 --- !u!95 &7847933822849135114
 Animator:
   serializedVersion: 3
