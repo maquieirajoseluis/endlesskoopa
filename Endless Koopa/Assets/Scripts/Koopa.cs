@@ -74,7 +74,7 @@ public class Koopa : PhysicsObject
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Coin")
+        if (collision.tag == "Fire")
         {
             Game.instance.Scored();
 

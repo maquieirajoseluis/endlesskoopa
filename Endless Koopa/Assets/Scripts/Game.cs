@@ -17,12 +17,14 @@ public class Game : MonoBehaviour
     public float scrollSpeed = 7f;
 
     public AudioClip coinSound;
+    public AudioClip fireSound;
+    public AudioClip gameOverSound;
 
     private int score = 0;
 
-    private bool doingIntro = true;
+    public bool intro = true;
 
-    private float introDelay = 2f;
+    private float introDelay = 1f;
 
     void Awake()
     {
@@ -54,19 +56,20 @@ public class Game : MonoBehaviour
         }
 
         score++;
-        Audio.instance.PlaySingle(coinSound);
+        Audio.instance.PlaySingle(fireSound);
         scoreText.text = score.ToString("D4");
     }
 
     public void GameOver()
     {
+        Audio.instance.PlaySingle(gameOverSound);
         gameOverText.SetActive(true);
         gameOver = true;
     }
 
     void InitGame()
     {
-        doingIntro = true;
+        intro = true;
 
         introImage.SetActive(true);
 
@@ -77,6 +80,6 @@ public class Game : MonoBehaviour
     {
         introImage.SetActive(false);
 
-        doingIntro = false;
+        intro = false;
     }
 }

@@ -280,6 +280,9 @@ MonoBehaviour:
   gameOver: 0
   scrollSpeed: -7
   coinSound: {fileID: 8300000, guid: 0ff90a617297a5e4baaefc152613a029, type: 3}
+  fireSound: {fileID: 8300000, guid: d4b6251491b4c3a4d92d2820ea458afa, type: 3}
+  gameOverSound: {fileID: 8300000, guid: 62f0d59aeb53d504bbc69e2c012b3ce2, type: 3}
+  intro: 1
 --- !u!1 &4588774767141976415
 GameObject:
   m_ObjectHideFlags: 0
