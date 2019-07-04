@@ -53,11 +53,23 @@ public class Koopa : PhysicsObject
         }
     }
 
+    private void Die()
+    {
+        animator.SetTrigger("marioIdle");
+    }
+
     protected override void ComputeVelocity()
     {
-        Walk(Input.GetAxis("Horizontal"));
+        if (Game.instance.gameOver)
+        {
+            Die();
+        }
+        else
+        {
+            Walk(Input.GetAxis("Horizontal"));
 
-        Jump();
+            Jump();
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)

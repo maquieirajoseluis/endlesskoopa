@@ -18,7 +18,6 @@ public class Game : MonoBehaviour
 
     private int score = 0;
 
-    // Start is called before the first frame update
     void Awake()
     {
         if (instance == null)
@@ -31,7 +30,6 @@ public class Game : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (gameOver && Input.GetButtonUp("Jump"))

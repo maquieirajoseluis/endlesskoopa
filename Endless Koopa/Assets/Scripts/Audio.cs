@@ -8,7 +8,6 @@ public class Audio : MonoBehaviour
     public float lowPitchRange = .95f;
     public float highPitchRange = 1.05f;
 
-
     void Awake()
     {
         if (instance == null)
@@ -22,7 +21,6 @@ public class Audio : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
     }
-
 
     public void PlaySingle(AudioClip clip)
     {

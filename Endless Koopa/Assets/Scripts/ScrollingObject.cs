@@ -11,7 +11,14 @@ public class ScrollingObject : MonoBehaviour
 
     void FixedUpdate()
     {
-        Move(Input.GetAxis("Horizontal"));
+        if (Game.instance.gameOver)
+        {
+            Move(0);
+        }
+        else
+        {
+            Move(Input.GetAxis("Horizontal"));
+        }
     }
 
     private void Move(float direction)
