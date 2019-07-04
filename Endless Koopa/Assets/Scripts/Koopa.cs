@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Player : PhysicsObject
+public class Koopa : PhysicsObject
 {
     public float jumpSpeed = 7f;
 
