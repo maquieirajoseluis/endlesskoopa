@@ -2,8 +2,6 @@
 
 public class ScrollingObject : MonoBehaviour
 {
-    public float moveSpeed = 7f;
-
     private Rigidbody2D rb2d;
 
     void Awake()
@@ -20,7 +18,7 @@ public class ScrollingObject : MonoBehaviour
     {
         Vector2 move = Vector2.zero;
 
-        move.x = -direction * moveSpeed;
+        move.x = direction * Game.instance.scrollSpeed;
 
         rb2d.velocity = move;
     }
