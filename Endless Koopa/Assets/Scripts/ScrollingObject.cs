@@ -11,7 +11,7 @@ public class ScrollingObject : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (Game.instance.gameOver)
+        if (Game.instance.gameOver || Game.instance.objectCollision)
         {
             Move(0);
         }

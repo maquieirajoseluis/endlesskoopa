@@ -87,5 +87,11 @@ public class Koopa : PhysicsObject
         {
             Game.instance.GameOver();
         }
+
+        if(collision.tag == "Object")
+        {
+            Game.instance.ObjectCollision();
+
+        }
     }
 }
