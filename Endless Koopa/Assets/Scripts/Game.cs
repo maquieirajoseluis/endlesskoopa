@@ -83,12 +83,11 @@ public class Game : MonoBehaviour
     {
         intro = true;
 
-
-        for (int i = 0; i < grounds.Length; i++)
-        {
-            var ground = (GameObject)Instantiate(grounds[i], new Vector3(i * 20.48f, 0), Quaternion.identity);
-            ground.transform.position = new Vector2(i * 20.48f, 0);
-        }
+        //for (int i = 0; i < grounds.Length; i++)
+        //{
+        //    var ground = (GameObject)Instantiate(grounds[i], new Vector3(i * 20.48f, 0), Quaternion.identity);
+        //    ground.transform.position = new Vector2(i * 20.48f, 0);
+        //}
 
         introImage.SetActive(true);
 
