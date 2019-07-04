@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: 2da29c2a595d1ce4ba478310be146ae5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wii U - Super Mario Maker - Hammer Bro NSMBU_0
+    21300002: Wii U - Super Mario Maker - Hammer Bro NSMBU_1
+    21300004: Wii U - Super Mario Maker - Hammer Bro NSMBU_2
+    21300006: Wii U - Super Mario Maker - Hammer Bro NSMBU_3
+    21300008: Wii U - Super Mario Maker - Hammer Bro NSMBU_4
+    21300010: Wii U - Super Mario Maker - Hammer Bro NSMBU_5
+    21300012: Wii U - Super Mario Maker - Hammer Bro NSMBU_6
+    21300014: Wii U - Super Mario Maker - Hammer Bro NSMBU_7
+    21300016: Wii U - Super Mario Maker - Hammer Bro NSMBU_8
+    21300018: Wii U - Super Mario Maker - Hammer Bro NSMBU_9
+    21300020: Wii U - Super Mario Maker - Hammer Bro NSMBU_10
+    21300022: Wii U - Super Mario Maker - Hammer Bro NSMBU_11
+    21300024: Wii U - Super Mario Maker - Hammer Bro NSMBU_12
+    21300026: Wii U - Super Mario Maker - Hammer Bro NSMBU_13
+    21300028: Wii U - Super Mario Maker - Hammer Bro NSMBU_14
+    21300030: Wii U - Super Mario Maker - Hammer Bro NSMBU_15
+    21300032: Hammer Bro 1
+    21300034: Wii U - Super Mario Maker - Hammer Bro NSMBU_24
+    21300036: Wii U - Super Mario Maker - Hammer Bro NSMBU_25
+    21300038: Wii U - Super Mario Maker - Hammer Bro NSMBU_26
+    21300040: Wii U - Super Mario Maker - Hammer Bro NSMBU_27
+    21300042: Wii U - Super Mario Maker - Hammer Bro NSMBU_28
+    21300044: Wii U - Super Mario Maker - Hammer Bro NSMBU_29
+    21300046: Wii U - Super Mario Maker - Hammer Bro NSMBU_30
+    21300048: Wii U - Super Mario Maker - Hammer Bro NSMBU_31
+    21300050: Wii U - Super Mario Maker - Hammer Bro NSMBU_32
+    21300052: Wii U - Super Mario Maker - Hammer Bro NSMBU_33
+    21300054: Wii U - Super Mario Maker - Hammer Bro NSMBU_34
+    21300056: Wii U - Super Mario Maker - Hammer Bro NSMBU_35
+    21300058: Wii U - Super Mario Maker - Hammer Bro NSMBU_36
+    21300060: Wii U - Super Mario Maker - Hammer Bro NSMBU_37
+    21300062: Wii U - Super Mario Maker - Hammer Bro NSMBU_38
+    21300064: Wii U - Super Mario Maker - Hammer Bro NSMBU_39
+    21300066: Wii U - Super Mario Maker - Hammer Bro NSMBU_40
+    21300068: Wii U - Super Mario Maker - Hammer Bro NSMBU_41
+    21300070: Wii U - Super Mario Maker - Hammer Bro NSMBU_42
+    21300072: Wii U - Super Mario Maker - Hammer Bro NSMBU_43
+    21300074: Wii U - Super Mario Maker - Hammer Bro NSMBU_44
+    21300076: Wii U - Super Mario Maker - Hammer Bro NSMBU_45
+    21300078: Wii U - Super Mario Maker - Hammer Bro NSMBU_46
+    21300080: Wii U - Super Mario Maker - Hammer Bro NSMBU_47
+    21300082: Wii U - Super Mario Maker - Hammer Bro NSMBU_48
+    21300084: Wii U - Super Mario Maker - Hammer Bro NSMBU_49
+    21300086: Wii U - Super Mario Maker - Hammer Bro NSMBU_50
+    21300088: Wii U - Super Mario Maker - Hammer Bro NSMBU_51
+    21300090: Wii U - Super Mario Maker - Hammer Bro NSMBU_52
+    21300092: Wii U - Super Mario Maker - Hammer Bro NSMBU_53
+    21300094: Wii U - Super Mario Maker - Hammer Bro NSMBU_54
+    21300096: Wii U - Super Mario Maker - Hammer Bro NSMBU_55
+    21300098: Wii U - Super Mario Maker - Hammer Bro NSMBU_56
+    21300100: Wii U - Super Mario Maker - Hammer Bro NSMBU_57
+    21300102: Wii U - Super Mario Maker - Hammer Bro NSMBU_68
+    21300104: Wii U - Super Mario Maker - Hammer Bro NSMBU_69
+    21300106: Wii U - Super Mario Maker - Hammer Bro NSMBU_70
+    21300108: Wii U - Super Mario Maker - Hammer Bro NSMBU_71
+    21300110: Wii U - Super Mario Maker - Hammer Bro NSMBU_72
+    21300112: Wii U - Super Mario Maker - Hammer Bro NSMBU_73
+    21300114: Wii U - Super Mario Maker - Hammer Bro NSMBU_80
+    21300116: Wii U - Super Mario Maker - Hammer Bro NSMBU_81
+    21300118: Wii U - Super Mario Maker - Hammer Bro NSMBU_82
+    21300120: Wii U - Super Mario Maker - Hammer Bro NSMBU_83
+    21300122: Wii U - Super Mario Maker - Hammer Bro NSMBU_84
+    21300124: Wii U - Super Mario Maker - Hammer Bro NSMBU_85
+    21300126: Wii U - Super Mario Maker - Hammer Bro NSMBU_86
+    21300128: Wii U - Super Mario Maker - Hammer Bro NSMBU_87
+    21300130: Wii U - Super Mario Maker - Hammer Bro NSMBU_88
+    21300132: Wii U - Super Mario Maker - Hammer Bro NSMBU_89
+    21300134: Wii U - Super Mario Maker - Hammer Bro NSMBU_90
+    21300136: Wii U - Super Mario Maker - Hammer Bro NSMBU_91
+    21300138: Wii U - Super Mario Maker - Hammer Bro NSMBU_92
+    21300140: Wii U - Super Mario Maker - Hammer Bro NSMBU_93
+    21300142: Wii U - Super Mario Maker - Hammer Bro NSMBU_94
+    21300144: Wii U - Super Mario Maker - Hammer Bro NSMBU_95
+    21300146: Wii U - Super Mario Maker - Hammer Bro NSMBU_100
+    21300148: Wii U - Super Mario Maker - Hammer Bro NSMBU_101
+    21300150: Wii U - Super Mario Maker - Hammer Bro NSMBU_102
+    21300152: Wii U - Super Mario Maker - Hammer Bro NSMBU_103
+    21300154: Wii U - Super Mario Maker - Hammer Bro NSMBU_104
+    21300156: Wii U - Super Mario Maker - Hammer Bro NSMBU_105
+    21300158: Wii U - Super Mario Maker - Hammer Bro NSMBU_106
+    21300160: Wii U - Super Mario Maker - Hammer Bro NSMBU_108
+    21300162: Wii U - Super Mario Maker - Hammer Bro NSMBU_109
+    21300164: Wii U - Super Mario Maker - Hammer Bro NSMBU_110
+    21300166: Wii U - Super Mario Maker - Hammer Bro NSMBU_111
+    21300168: Wii U - Super Mario Maker - Hammer Bro NSMBU_112
+    21300170: Wii U - Super Mario Maker - Hammer Bro NSMBU_113
+    21300172: Wii U - Super Mario Maker - Hammer Bro NSMBU_114
+    21300174: Wii U - Super Mario Maker - Hammer Bro NSMBU_115
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6904
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c072f0b48e224bb01f3f1e0fca40e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6904
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadef8c0d6ece0046a869ec5c6f2883b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 6904
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24b26f319905b4992c158300c8674f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 6903
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f782d31fc1f2f41ab9f483036adeda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6679
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f390c5277ee994abcc6104a7683c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6679
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37b6e7a11074a4fb8f03eaee0b7f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 6678
+        width: 200
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167530ddac02feb409e7bc009434bc23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 6679
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087313b65dfa7542a9200761ea77d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6443
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407c6a231c036646a66ac2c34c02b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6441
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c6b5bb9ed7214ea6f43760942dff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 6439
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2fe233e35d4984fb596f25c8fd1b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_11
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 6438
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b40d84943b93744afaeb8fff253162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6212
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6567aa5b123da4a9fbd57e9ed65d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6210
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3dd4ddd0c6f24989aa7813e9499c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6213
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75c4563585fb374bb844e9f458ee0a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 6211
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470e4ba4c6390124387d0df4c95016d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Bro 1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 5981
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf82867b235c834e9e7b3e635cac056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5403
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54f6aed08fcfdb45a2a0ea95cc33fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5403
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e158285f9773d4bbb60eeab74e3f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5402
+        width: 200
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15318f8dbaf49a44828000016f5ca71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 5402
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c6fcb28c50ee24cadac4badfb322b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5170
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c98cb915b31d4084feb8ca4225ddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_29
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5171
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b929f8c43076a143944449efe55ddef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5171
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ff9144e0a6be47a6fac1593a6e3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 5173
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf182dd1338b314eb7c95b9098cfe77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4940
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d22e49cf5e65499f4bd15694dd324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4941
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9d267cc5d0114c8a1d927c90dbc8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 4941
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4838194e06e58648a7e3bdf73143784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 4941
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cdc43014cc2249b534cd13c7b02a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4706
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6267121d041dbe48abfdc13e8fb21d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4707
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e109631733cfd8459eef63f6b3bc005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4708
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91a5ffffc50b845bcbcb5912333d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_39
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 4709
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841d6c14b34e14e42af5246d05ab27d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4478
+        width: 200
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4b97c21a72d5479f55d6b6147b803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4477
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687b31741f68fb4e81afeb3c1865d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4479
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5483cbe8dc34409d672a4ad602100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_43
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 4480
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c694fa165557248a01f87075d13bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4250
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b953ebf595aa9498f3ef8fe51714d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4251
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a987271eb14a428f4715cd1839c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4251
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc065d3e3d554d14c8dc778f099ce034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 4252
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5bca6fadb0fa46839df4d38d2654d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4020
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb3e9579ef4c747bfb44857f87c727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4020
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039163fac180ed4c944e2bcabeeb109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_50
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4020
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aff99cbb1f00be42866245f3338470b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_51
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 4020
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d6ff4945c5db41929461fe9925225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3783
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bda44ee84dfcf42b22c751070fbad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3783
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e325d75e2858dc4aa10eb2d0324e63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3782
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ac794a68d2e143af1567130d54e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_55
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3783
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993f6721bb117041bb4f7cda2f79a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_56
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3553
+        width: 200
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c0d26f4ba931478fd99e55855f674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3554
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535e4846fdd31a4f83151bd2e9bc3be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2747
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916bea02ebc7d34cb1a640f2696e587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_69
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2750
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b824dbbafa484aa6e426c21f38632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_70
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2750
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b8e12c4652a64e8e95700fc469530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2750
+        width: 200
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf3360b87db3f418d4e5e3a2f578e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_72
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2514
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ec983f0541c54eba8e85ef5028bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_73
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2513
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f009997928114eab65e1e9309c236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2162
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd68885a951a04ab2fb84cc5a8d734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2160
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96715c97cc0f0b7488053a2124fe8d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_82
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2161
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ceffd549cbdc4089e4e1eb0a4bc71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_83
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2160
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5451a71f74da9e4f875f3d6c65eda76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1930
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88137f77b2f4bbc41aab7380602224ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1930
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c58925b7282f624dbc5cc422ee1a4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1930
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c6abad23cf634db3de1d36896394d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_87
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1929
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f4a8b14e956d47b8c8523c4bc26c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1698
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85aae329a03c1e408bcea3395b6873c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_89
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1699
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52499bb32b9a8b4ea4eee05d6743dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_90
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1700
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7650c6dd0fc14c45af9e09c8db7e1f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_91
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1699
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442696aa0f86ff64e9b26f8ca41d3058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1467
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e3ba9499d85743bf9f1e09ac4dcf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1467
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c0aaf19b75b7428b77ba749d49c93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1466
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa6787485f2664ea5b575da6995afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_95
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1467
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5018f968d4a504598dfbaa16abdecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1006
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f6a8945abb2f43b30b33aae943b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1005
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c62977d931542419de62736e3c5c86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_102
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1006
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8218900b2eace42b47cdbefb5a8306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_103
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1005
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ae6f0c764f0646a1233f575a44b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 776
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cd1a00da93a644ab4830de3c342b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_105
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 776
+        width: 200
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5046231, y: 0.49159434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a8bf2440b01a4bb4dbc02da58061d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 777
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd4fb39e538544a99ebbc3cfc5680d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 429
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0b6787dd0eb442ab9ecc0c5fbf936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_109
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 430
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f8d0630618b14f85795e88ca03b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_110
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 429
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20f18f80f0cb54fb2cd23857a3a6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_111
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 431
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9326816e32ca489f1528cd3d84cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01def1888ee8b454a911103f8574e111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_113
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 199
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7abd6d4ccc9fc448bd9e114181d4d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36972e0928f755c4584f2cc853b1b0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Hammer Bro NSMBU_115
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 197
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069fa59835e8d6488ae0f2670000f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de3432f2ac2695f4cb3331b8cadfaa31
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1611 @@
+fileFormatVersion: 2
+guid: 1f43bff665ca7384b96481565e90f96b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Piranha Plant_0
+    21300002: Piranha Plant_1
+    21300004: Piranha Plant_2
+    21300006: Piranha Plant_3
+    21300008: Piranha Plant_4
+    21300010: Piranha Plant_5
+    21300012: Piranha Plant_6
+    21300014: Piranha Plant_7
+    21300016: Piranha Plant_8
+    21300018: Piranha Plant_9
+    21300020: Piranha Plant_10
+    21300022: Piranha Plant_11
+    21300024: Piranha Plant_12
+    21300026: Piranha Plant_13
+    21300028: Piranha Plant_14
+    21300030: Piranha Plant_15
+    21300032: Piranha Plant_16
+    21300034: Piranha Plant_17
+    21300036: Piranha Plant_18
+    21300038: Piranha Plant_19
+    21300040: Piranha Plant_20
+    21300042: Piranha Plant_21
+    21300044: Piranha Plant_22
+    21300046: Piranha Plant_23
+    21300048: Piranha Plant_24
+    21300050: Piranha Plant_25
+    21300052: Piranha Plant_26
+    21300054: Piranha Plant_27
+    21300056: Piranha Plant_28
+    21300058: Piranha Plant_29
+    21300060: Piranha Plant_30
+    21300062: Piranha Plant_31
+    21300064: Piranha Plant_32
+    21300066: Piranha Plant_33
+    21300068: Piranha Plant_34
+    21300070: Piranha Plant_35
+    21300072: Piranha Plant_36
+    21300074: Piranha Plant_37
+    21300076: Piranha Plant_38
+    21300078: Piranha Plant_39
+    21300080: Piranha Plant_40
+    21300082: Piranha Plant_41
+    21300084: Piranha Plant_42
+    21300086: Piranha Plant_43
+    21300088: Piranha Plant_44
+    21300090: Piranha Plant_45
+    21300092: Piranha Plant_46
+    21300094: Piranha Plant_47
+    21300096: Piranha Plant_48
+    21300098: Piranha Plant_49
+    21300100: Piranha Plant_50
+    21300102: Piranha Plant_51
+    21300104: Piranha Plant_52
+    21300106: Piranha Plant_53
+    21300108: Piranha Plant_54
+    21300110: Piranha Plant_55
+    21300112: Piranha Plant_56
+    21300114: Piranha Plant_57
+    21300116: Piranha Plant_58
+    21300118: Piranha Plant_59
+    21300120: Piranha Plant_60
+    21300122: Piranha Plant_61
+    21300124: Piranha Plant_62
+    21300126: Piranha Plant_63
+    21300128: Piranha Plant_64
+    21300130: Piranha Plant_65
+    21300132: Piranha Plant_66
+    21300134: Piranha Plant_67
+    21300136: Piranha Plant_68
+    21300138: Piranha Plant_69
+    21300140: Piranha Plant_70
+    21300142: Piranha Plant_71
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piranha Plant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf518ee220a0174380a2f1ee5ea78f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1293
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daece0445fb55704f9a99f6af07f61dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1295
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f1f3348ed0b542b4c7470c976b18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1294
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5b9f6e2ff7e844b80cba421b03abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1294
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec915e3e714f6948ac21fe5c6c953bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_5
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1294
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92d320ab9f63749bac8ef5cc496f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1294
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16dbd83d224124fb7212a0286ec89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_7
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1293
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601827835f74bc542a9d8f64c6f3cd56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5279a21089e971418873b9cffed7650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1133
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a408fcd994a55a4b9d27617971fe260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1132
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6231d13175c9119479b79953e86dfad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1132
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc14614a350a4498f59cd5fbc80e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1131
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abf5525f4779440a1402e690b817b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1133
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce46dd5896fb842a010f8edfc66d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1133
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291e082a959e75418acd4d166629bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1133
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62633350f4d31fd4b80481ff55e9312d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d20b312691a840bdc0f578f9542b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 970
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551df026ae963b43bbc0153845cbda9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 970
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef74fb7bad2b31429593ec04b5a4a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864c0329bfa9bf45afaa6822b289e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 973
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c416dfe0ad2fc6408ca84c1b02201b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 970
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb043bc2365284aa01b3a6f1e4afe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 970
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3672da70eaed0a41af6b8ae4f8546ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 971
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb61e5d1763c334e8f8bbbcc14a97ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba42a127d279f647a73eef57f042974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 811
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0bba8e729a89541bf51d2f30dc55e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 811
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040996f4ebf0f8439dd8a39fd8455ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 812
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6e123eae0020459a0452e0efd2c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 812
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe387337f8337645a31925338b404cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_29
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 809
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08910b23b07b5d4196057bcb49ecba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 811
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf3a4fda140f1438277f8aaeca7dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 810
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa60eb3df854bae45b16d097d40f3d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dea22f96bd45c4d94f7f6d8b71f138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 650
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af54c4d09046ac44b1f3270c856e260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 650
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c79e9cd7385ca4fa62ba6893c7d235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 649
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37bf9b7d5c21e4082f7878f87d29c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 650
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca63e0e7670db46b6d97e37dd2dfdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 650
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7f20c4835cde44be67a422f688361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_38
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 649
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b70112af33b44c9f473c349dd9f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 649
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8959fb6c64aa1428e483fcf6733a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436655400445294ab9c7ef8ae8b07c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338a4bf0b6cebf4cac145367dcaaa0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb091069499c8f4998edf8720e007fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359318968a761a44f815b7296f721e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02c4d3539dccc45bd761b8570652fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_45
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a584c0f98fbddb4587d51c4d9ffecc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 489
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d70bd30c1c9245a9976cf09866365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_47
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 488
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b73130e8a18e4dbafce4088eb8d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f75a84d17a26a4d8a919435867788d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 328
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48159f988e9e144281b082eca3427f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 329
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1625be2b9bfd44b5f20989b7d4037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 328
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe9842fc0ad00418498f486f75e169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 328
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861e47468b54194c82d3df6f49c8ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 327
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbd55aa69cbcb4469948246cef3d343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_54
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 328
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1b20a4b1454848bde5cdfca11d5f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_55
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 327
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a093dd1d5c6c44a8a0423700994e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f801a2efa4bb6849be6d2679d09745b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 166
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a22880b98401e4eb9b413ccdb487ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 167
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c42d1425a7f8b4489e4a29f0f9be9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c44c29ae8f9384598f76685daab648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 166
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472363cc20c92c34fa2751d571adb2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 165
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf4950f24173447b784d32aa0e6a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_62
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 165
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ab3ea393688548ba2b2ff09d8cf0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_63
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 166
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0fefdafd91f2c4da34fecd546d17a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd587aa7bf928499d54daf0f705d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb3e078af9eef4db873a8c10d4dd66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771572968d8e3d43b87dc9e1e369f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42212687054fb0143b43f9319f57391b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_68
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 6
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eee67bc4becca469303f19b3449df4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 5
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e86c057a9e5a448b98dc0ba31499d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_70
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 6
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5db9dc70e8e542b79377f83f410c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piranha Plant_71
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 6
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db33fca51c321a47a9c44aa6a947373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c39d88f22a965e643b1ce2547012276f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

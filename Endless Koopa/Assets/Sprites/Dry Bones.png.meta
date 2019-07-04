@@ -1,0 +1,1648 @@
+fileFormatVersion: 2
+guid: 2645788918605cf439c622e6f679822d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -105259817848868889
+    second: Dry Bones 2_0
+  - first:
+      213: 4193754589870621526
+    second: Dry Bones 2_1
+  - first:
+      213: 4330697678444596231
+    second: Dry Bones 2_2
+  - first:
+      213: 4414782243450978105
+    second: Dry Bones 2_3
+  - first:
+      213: -4163034085338564556
+    second: Dry Bones 2_4
+  - first:
+      213: 4306661425908197787
+    second: Dry Bones 2_5
+  - first:
+      213: -3976034617265342254
+    second: Dry Bones 2_6
+  - first:
+      213: -5386176530199913527
+    second: Dry Bones 2_7
+  - first:
+      213: -3192629021061184259
+    second: Dry Bones 2_8
+  - first:
+      213: -5650046827463757825
+    second: Dry Bones 2_9
+  - first:
+      213: -7332269497799118262
+    second: Dry Bones 2_10
+  - first:
+      213: -5704591818390563921
+    second: Dry Bones 2_11
+  - first:
+      213: -8057531061090428089
+    second: Dry Bones 2_12
+  - first:
+      213: 5717417945561798623
+    second: Dry Bones 2_13
+  - first:
+      213: -4928442766101638332
+    second: Dry Bones 2_14
+  - first:
+      213: -4906912654932336397
+    second: Dry Bones 2_15
+  - first:
+      213: -2411778035933813958
+    second: Dry Bones 2_16
+  - first:
+      213: 4836320461457345830
+    second: Dry Bones 2_17
+  - first:
+      213: 8418561679421777667
+    second: Dry Bones 2_18
+  - first:
+      213: -3611962511098373322
+    second: Dry Bones 2_19
+  - first:
+      213: -3743075172964004491
+    second: Dry Bones 2_20
+  - first:
+      213: 7082346043200410620
+    second: Dry Bones 2_21
+  - first:
+      213: -6993964758523552131
+    second: Dry Bones 2_22
+  - first:
+      213: 8543930725977137742
+    second: Dry Bones 2_23
+  - first:
+      213: -6968609480487634799
+    second: Dry Bones 2_24
+  - first:
+      213: 4262421741217318199
+    second: Dry Bones 2_25
+  - first:
+      213: 8135093217467383222
+    second: Dry Bones 2_26
+  - first:
+      213: 574165043469713654
+    second: Dry Bones 2_27
+  - first:
+      213: -5501757335006239799
+    second: Dry Bones 2_28
+  - first:
+      213: -4651455485645128281
+    second: Dry Bones 2_29
+  - first:
+      213: 7858210450108713605
+    second: Dry Bones 2_30
+  - first:
+      213: -5242571243290741448
+    second: Dry Bones 2_31
+  - first:
+      213: 4308886370422154857
+    second: Dry Bones 2_32
+  - first:
+      213: 9009527833147854453
+    second: Dry Bones 2_34
+  - first:
+      213: 7593312456087462712
+    second: Dry Bones 2_35
+  - first:
+      213: 6404909440018387467
+    second: Dry Bones 2_36
+  - first:
+      213: 5732108737791313288
+    second: Dry Bones 2_37
+  - first:
+      213: -2798631142404278089
+    second: Dry Bones 2_38
+  - first:
+      213: -7256252814613924011
+    second: Dry Bones 2_39
+  - first:
+      213: -435806188175727388
+    second: Dry Bones 2_40
+  - first:
+      213: 581436893374032914
+    second: Dry Bones 2_42
+  - first:
+      213: -1357231195064915644
+    second: Dry Bones 2_43
+  - first:
+      213: 4237062093135723944
+    second: Dry Bones 2_44
+  - first:
+      213: -1858546153947079252
+    second: Dry Bones 2_45
+  - first:
+      213: 1394600067683711448
+    second: Dry Bones 2_46
+  - first:
+      213: 1594306130631850111
+    second: Dry Bones 2_47
+  - first:
+      213: 7416598421691744478
+    second: Dry Bones 2_49
+  - first:
+      213: 2974372286991753364
+    second: Dry Bones 2_50
+  - first:
+      213: -4893628580940553506
+    second: Dry Bones 2_51
+  - first:
+      213: -7983953361575037250
+    second: Dry Bones 2_52
+  - first:
+      213: -5422579881983019608
+    second: Dry Bones 2_53
+  - first:
+      213: 4538957576596164271
+    second: Dry Bones 2_54
+  - first:
+      213: -380812937795209625
+    second: Dry Bones 2_57
+  - first:
+      213: 4252026541494483016
+    second: Dry Bones 2_58
+  - first:
+      213: 872428014042986212
+    second: Dry Bones 2_59
+  - first:
+      213: -7091464561130366729
+    second: Dry Bones 2_60
+  - first:
+      213: -8145823899815756349
+    second: Dry Bones 2_61
+  - first:
+      213: -676551470885955564
+    second: Dry Bones 2_63
+  - first:
+      213: 1310340086182698456
+    second: Dry Bones 2_64
+  - first:
+      213: 4489365995370533834
+    second: Dry Bones 2_65
+  - first:
+      213: 5892776280995533562
+    second: Dry Bones 2_66
+  - first:
+      213: -709351364925472229
+    second: Dry Bones 2_67
+  - first:
+      213: -790920425903142197
+    second: Dry Bones 2_68
+  - first:
+      213: -3848778361070246050
+    second: Dry Bones 2_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dry Bones 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2001
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7564fa4d5028242be8d086bb689154
+      internalID: -105259817848868889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2001
+        width: 150
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5571df41d39ed1b45918977ea6092a8f
+      internalID: 4193754589870621526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1994
+        width: 152
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25419ad8b13790f4d8a53ce1d3e479ce
+      internalID: 4330697678444596231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1991
+        width: 154
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c909fca5556c2b449b70e0a0bbd3466
+      internalID: 4414782243450978105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2013
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6e4579664a15478e2bb7069da4791
+      internalID: -4163034085338564556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2011
+        width: 176
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a39406db895546be59e41331855ac
+      internalID: 4306661425908197787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1995
+        width: 155
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef69aba07a455418aa2a932fb9d7b4
+      internalID: -3976034617265342254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1763
+        width: 150
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712442fb139c0d44b89841c2ea11f3c
+      internalID: -5386176530199913527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1788
+        width: 157
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360b393cb1f9bf43b49c6962766a478
+      internalID: -3192629021061184259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1787
+        width: 161
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb76aefba048a14da3c4e5573588a02
+      internalID: -5650046827463757825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1763
+        width: 154
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d5b6074de614408441cac7b9bfc05
+      internalID: -7332269497799118262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1762
+        width: 150
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf927d1d76f1b46928c9b6a4bb8f31
+      internalID: -5704591818390563921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1783
+        width: 173
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87382d68fc4a946bb1bdf641bee2f7
+      internalID: -8057531061090428089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1783
+        width: 175
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f03c331624fc14da119e7bf345d791
+      internalID: 5717417945561798623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1537
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3c35ab5d59924abcb2964d4c360ca
+      internalID: -4928442766101638332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1538
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e224b364d82324b8397d3e5a96d5eb
+      internalID: -4906912654932336397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1564
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783045a530b0874380a71c1d47ddae8
+      internalID: -2411778035933813958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1562
+        width: 161
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52406bd069da4b4c8c906bb0bf70329
+      internalID: 4836320461457345830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1535
+        width: 157
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1b6710702ee54288090a7f0c6655a
+      internalID: 8418561679421777667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1533
+        width: 150
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3bb5e6ef1be945babb32cb823854c
+      internalID: -3611962511098373322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1546
+        width: 212
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6efcfbea3361e34ea82197aa2ab99e3
+      internalID: -3743075172964004491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1309
+        width: 229
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef226374638ef104cbf2095638a3e30c
+      internalID: 7082346043200410620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1309
+        width: 144
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8c3dc215868f40b7a72442930f9b1
+      internalID: -6993964758523552131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1309
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aac880f4503d640976ca49f2e5fd55
+      internalID: 8543930725977137742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1310
+        width: 152
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e988e40f0f4c6b47a54c8b054bafdeb
+      internalID: -6968609480487634799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1310
+        width: 150
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d231266fbba147a144fada32afca9
+      internalID: 4262421741217318199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1312
+        width: 152
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b67397c6762f04e8ff5a35aae2dd27
+      internalID: 8135093217467383222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1285
+        width: 159
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc675f37ec29649baa24138c329c14
+      internalID: 574165043469713654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1063
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527d0da05e614f48abecd7560d3e3b9
+      internalID: -5501757335006239799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1062
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629fffd6e101cb74bb0a5b7e4698a46c
+      internalID: -4651455485645128281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1061
+        width: 154
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9ed4f5f3e9d74792787228019673d
+      internalID: 7858210450108713605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1061
+        width: 156
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7543ca6ea4abd324da84bc9596fad1f5
+      internalID: -5242571243290741448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1108
+        width: 228
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d666303f8c4942bd0abb429d55b84
+      internalID: 4308886370422154857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_34
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1081
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab53cf465ac9a744ba037cc46cae456
+      internalID: 9009527833147854453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 871
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97617a08f1f9756438fe71b3f41bebdb
+      internalID: 7593312456087462712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 842
+        width: 150
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fe3127ac2f0b4f84e63680b20fef4
+      internalID: 6404909440018387467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 842
+        width: 150
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38ab71293358042a075e55333056b4
+      internalID: 5732108737791313288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 845
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5dab311d25a748bcca1898d9fd248
+      internalID: -2798631142404278089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 846
+        width: 176
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6690d4ed7fd1c4eb6ab7f499e62420
+      internalID: -7256252814613924011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_40
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 857
+        width: 199
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07659916316dbae40a3880b1b655025e
+      internalID: -435806188175727388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 599
+        width: 169
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc06a1658708f47aa071976f13506a
+      internalID: 581436893374032914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 598
+        width: 210
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f8e5740e49dc42866fdbb406ac494
+      internalID: -1357231195064915644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 599
+        width: 208
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f1b8e5c61d844a9af5d7a2ebcc1e3
+      internalID: 4237062093135723944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 597
+        width: 211
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a77d91446e6c4b83188abe1b46445
+      internalID: -1858546153947079252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 598
+        width: 212
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ae93814aba635449d10db4dd571167
+      internalID: 1394600067683711448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 597
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa22377d08b1a74db5856703445a0a8
+      internalID: 1594306130631850111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 209
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190aaf2d18c8444488ebd2c8541a5032
+      internalID: 7416598421691744478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 354
+        width: 209
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469a58d5212d124880e4eaaf2e2967b
+      internalID: 2974372286991753364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 335
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db14d49a6d1ec747975551b16685b71
+      internalID: -4893628580940553506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_52
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 353
+        width: 211
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e49b42a1da064b8e8b6ddbf7a7c96
+      internalID: -7983953361575037250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_53
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 353
+        width: 210
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b413584f38b594e46b94ed403356c63c
+      internalID: -5422579881983019608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_54
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 341
+        width: 172
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aede4e6dea9fe4a99cf4ea0718b2fc
+      internalID: 4538957576596164271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_57
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 54
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808ee448f3ced94c88540bba0ba7a26
+      internalID: -380812937795209625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 58
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a306b81b121924ea3570d29542e774
+      internalID: 4252026541494483016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_59
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 154
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff04fe50327625e4c8503ebdea0378b8
+      internalID: 872428014042986212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_60
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 160
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0d9e4fe32d5a34a8a227e37abce59f
+      internalID: -7091464561130366729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_61
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 272
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907b3511222d094096a2844eee9c3bf
+      internalID: -8145823899815756349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 169
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19070d6ddbf82e74c9b39d0b4050e6b4
+      internalID: -676551470885955564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3
+        width: 335
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2df87bc2a2fcd4996ef1983bd6b20f
+      internalID: 1310340086182698456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_65
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 150
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1ebc52dd96a545a0135ca89ee8e2e
+      internalID: 4489365995370533834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_66
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 120
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fa2ca6bacd494eb65f6992846d09f
+      internalID: 5892776280995533562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 7
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee122345a340234fb0331e3a676d115
+      internalID: -709351364925472229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_68
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 43
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5824ea0539761479fc6c26b80454dd
+      internalID: -790920425903142197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dry Bones 2_69
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 67
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7795c997cc3e4dbb98ffc4bc3ea89
+      internalID: -3848778361070246050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a0b7045691c8e14d8be71477ca5f52b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
